@@ -1,5 +1,5 @@
 
-#Descricão
+## Descricão
 Projeto simples com uma requisição para uma API externa com uma lista de todos os paises e suas informações onde eu utilizo um input de texto para filtrar pelo nome esses paises em tempo de digitação e o numero de população no canto direito tambem atualiza de acordo com os paises exibidos.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
